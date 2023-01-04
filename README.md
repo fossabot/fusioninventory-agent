@@ -3,6 +3,7 @@
 [![Travis Build Status](https://travis-ci.org/fusioninventory/fusioninventory-agent.svg?branch=develop)](https://travis-ci.org/fusioninventory/fusioninventory-agent)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/f2oh6p3qnr2bck1b?svg=true)](https://ci.appveyor.com/project/fusioninventory/fusioninventory-agent)
 [![CircleCI Build status](https://circleci.com/gh/fusioninventory/fusioninventory-agent.svg?style=svg)](https://circleci.com/gh/fusioninventory/fusioninventory-agent)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Ffusioninventory-agent.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Ffusioninventory-agent?ref=badge_shield)
 
 ## Summary
 
@@ -134,6 +135,9 @@ Copyright 2011-2021 [Teclib Editions](https://www.teclib-edition.com/)
 
 This software is licensed under the terms of GPLv2+, see LICENSE file for
 details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Ffusioninventory-agent.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Ffusioninventory-agent?ref=badge_large)
 
 ## Additional pieces of software
 
